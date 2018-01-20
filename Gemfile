@@ -55,3 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'graphql', '1.7.8'
 gem 'graphiql-rails', '1.4.8', group: :development
+
+gem 'bcrypt', '3.1.11'
